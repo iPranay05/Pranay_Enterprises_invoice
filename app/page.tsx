@@ -14,12 +14,12 @@ export default function Home() {
         <p>
           © {new Date().getFullYear()}{" "}
           <Link
-            href="https://syigen.com"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
             className="font-semibold hover:text-foreground transition-colors"
           >
-            SYIGEN LTD
+            Pranay Enterprises
           </Link>
           . All rights reserved.
         </p>
